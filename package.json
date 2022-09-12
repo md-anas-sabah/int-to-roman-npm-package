@@ -1,0 +1,22 @@
+{
+  "name": "int-to-roman",
+  "version": "1.0.0",
+  "description": "convert integer to a roman numeral",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-anas-sabah/int-to-roman-npm-package.git"
+  },
+  "keywords": [
+    "roman-numeral"
+  ],
+  "author": "Md Anas Sabah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md-anas-sabah/int-to-roman-npm-package/issues"
+  },
+  "homepage": "https://github.com/md-anas-sabah/int-to-roman-npm-package#readme"
+}
